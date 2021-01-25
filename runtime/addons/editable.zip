@@ -1,0 +1,1 @@
+<b>400 Bad Request</b><br>Sec-WebSocket-Key not found.<br>This is a WebSocket service and can not be accessed via HTTP.<br>See <a href="http://wiki.workerman.net/Error1">http://wiki.workerman.net/Error1</a> for detail.
